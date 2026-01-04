@@ -1,2 +1,1 @@
-# tafsir-hore
-# tafsir-cusub
+
